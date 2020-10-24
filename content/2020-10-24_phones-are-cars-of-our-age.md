@@ -10,21 +10,21 @@ Photo by [Museums Victoria](https://unsplash.com/@museumsvictoria)
 
 I'm over 30 and my grandparents are over 80. They lived through the WW2 and all the Cold War years after that. They remember how the floor in their house was clay when they were kids. They tell long stories about how their everyday life looked like.
 
-## The raise of the car
+## The rise of the car
 
 One thing I noticed in their narration is the slow approach of technologies we assume as granted today. How they first walked everywhere they needed. Trains have existed, but were expensive, and weren't really a solution to any problems common people used to have. Then, at some point, some of the grandfathers invested in getting motorcycles. From the stories it's apparent this was perceived as outlandish at first and they've had to come up with various excuses and reasoning on why it's so important for the family to have it. Clearly, they were early adopters, similar to people playing with the internet 20 years ago or getting 3D printers a few years back. They were not sure yet what it's good for, but they were excited about it. They subconsciously felt the potential behind it.
 
-Later on, they started buying cars. The first car seems to be an important moment, but not as notable as the first motorcycle. In their stories, it seems like an obvious upgrade, hold back perhaps by their budget more than by understanding what it is good for. After that, the life of the family is all about cars and things they couldn't do before that, like a self-organized vacation at the Black Sea coast (Eastern Bloc family). Fast forward to modern days, my 88 years old grandpa still drives his car. He drives it to do shopping, he regularly drives it 4 km to the community garden. He says he hasn't been in train for more than 20 years and I assume his attitude towards any public transport is similar. He doesn't have a reason to behave differently. Since the moment he got his first car, he's been able to get done everything he ever needed using just cars.
+Later on, they started buying cars. The first car seems to be an important moment, but not as notable as the first motorcycle. In their stories, it seems like an obvious upgrade, hold back perhaps by their budget more than by understanding what it is good for. After that, the life of the family is all about cars and things they couldn't do before that, like a self-organized vacation at the Black Sea coast (Eastern Bloc family). Fast forward to modern days, my 88 years old grandpa still drives his car. He drives it to do shopping, he regularly drives it 4 km to the community garden. He says he hasn't been on a train for more than 20 years and I assume his attitude towards any public transport is similar. He doesn't have a reason to behave differently. Since the moment he got his first car, he's been able to get everything done he ever needed using just cars.
 
 The world has changed from the ground up during his lifetime. In the beginning, people lived only in their villages and their moving range was limited by what was possible to walk or perhaps cycle. He started with a motorcycle and in a few decades, it wasn't a completely long stretch for him to load his family to a car and go 1500 km for vacation. In a similar manner, everything around changed, too. To accommodate cars, roads have been built everywhere. Streets got parking places. The infrastructure materialized.
 
 During the lifetime of my parents, cars were already normal. Transport has made the world  interconnected and smaller, unparalleled to anything before. People do weekend trips to nearby mountains, commute longer distances, move to villages in a distance from towns where they work, have their family further away, have a cottage in a distant region, buy stuff in shopping malls. Because all of that is suddenly possible. Satellite villages, suburban sprawl, rush hours, and parking problems materialize. So many things we know today and consider normal wouldn't be possible at all without cars. The grandparents were there when it all started, but it's our parents who got the most out of all the changes. For them, a car is an inseparable part of their lives. Something which allowed them to live the way they did. I don't think any other recent invention has been as enabling as the car is. Not even TV.
 
-## The raise of the phone
+## The rise of the phone
 
 My generation has been there when the internet and computers started. I think we're in a similar situation as our grandparents. In the beginning, it was just for early adopters, but later, everyone learned the potential of these technologies. Computers were like motorcycles. The true changes started when smartphones came. They're the cars of our age and we're yet to see how our kids are going to stretch their potential to the maximum, and to discover all controversies and problems these things have. We'll live and die with the feeling that smartphones are a privilege of progress, but our kids will have it as something completely normal, which allows them to live the way they do.
 
-I think the change caused by the internet and smartphones is really similar in how radically different behavior and life style it enables. The internet has made the world  even more interconnected and much smaller than transport.
+I think the change caused by the internet and smartphones is really similar in how radically different behavior and lifestyle it enables. The internet has made the world  even more interconnected and much smaller than transport.
 
 ## Changes in culture
 
@@ -44,7 +44,7 @@ The internet continues the trend. There are people remotely working from distant
 
 Maybe the cars will be powered by electricity, but they're going to stay as a crucial enabler. Many of our needs will move on-line, we'll stay at home a lot more, but cars will be the thing which will make them happen in the real world. Instead of people using cars to commute, more and more things will get delivered by cars directly to their homes, possibly widening the range of places with more opportunities than before. Possibly making even more people wealthier.
 
-How many people will need to own a private car in such an environment? Who knows, depends on how effective public transport, car rentals, and car-sharing will become. Will private cars become more expensive? Will they become yachts for weekend trips? Will driving license turn into something people only have for fun, similar to Yachtmaster?
+How many people will need to own a private car in such an environment? Who knows, depends on how effective public transport, car rentals, and car-sharing will become. Will private cars become more expensive? Will they become yachts for weekend trips? Will a driving license turn into something people only have for fun, similar to Yachtmaster?
 
 ## Backlash
 
@@ -56,4 +56,4 @@ Is it possible there will be a similar trend regarding current tech? Will hipste
 
 I don't know if this all makes much sense. As I mentioned in the beginning, this is not researched at all. I'm not a scientist nor a science fiction writer. I'm just a random software engineer from the Czech Republic who has decided to elaborate on a [shower thought](https://www.reddit.com/r/showerthoughts/) and publish an article on the topic on his personal blog. Feel free to point out how wrong I am or build on top of my ideas further. In the latter case, a Kindle version of your published novel would be enough as thanks.
 
-I really think the analogy has some grounds though. And thinking about it definitely helped me a lot in understanding different people's opinions and life styles. Especially those older than me and those with cars.
+I really think the analogy has some grounds though. And thinking about it definitely helped me a lot in understanding different people's opinions and lifestyles. Especially those older than me and those with cars.
