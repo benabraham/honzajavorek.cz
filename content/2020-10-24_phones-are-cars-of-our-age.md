@@ -3,7 +3,7 @@ Image: images/museums-victoria-2r1O25ZlKD0-unsplash.jpg
 Lang: en
 
 
-I think cars are to our ancestors what the smartphones are to us. A revolutionary enabler, which gradually but completely changes everything in human lives. I have not done any real research about this, so feel free to call this thought of mine to be nonsense which isn't supported by any historical or contemporary evidence.
+I think cars are to our ancestors what smartphones are to us. A revolutionary enabler, which gradually but completely changes everything in human lives. I have not done any real research about this, so feel free to call this thought of mine to be nonsense, which isn't supported by any historical or contemporary evidence.
 
 ![Historical car]({static}/images/museums-victoria-2r1O25ZlKD0-unsplash.jpg)
 Photo by [Museums Victoria](https://unsplash.com/@museumsvictoria)
